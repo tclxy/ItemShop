@@ -2,56 +2,50 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_087_Athena_Commando_F_RedSilk"
+            "AthenaCharacter:CID_170_Athena_Commando_F_Luchador"
         ],
-        "price": 800
+        "price": 1200
     },
     "daily2": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_166_Shiny"
+            "AthenaPickaxe:Pickaxe_ID_031_Squeak"
         ],
         "price": 800
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_SkeletonDance"
+            "AthenaDance:EID_Laugh"
         ],
-        "price": 500
+        "price": 1000
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:EID_NeverGonna"
+            "AthenaDance:EID_ElectroSwing"
         ],
         "price": 500
     },
     "daily5": {
         "itemGrants": [
-            "AthenaGlider:Glider_ID_104_Math"
+            "AthenaGlider:Glider_ID_196_CycloneMale"
         ],
-        "price": 800
+        "price": 1200
     },
     "daily6": {
         "itemGrants": [
-            "AthenaBackpack:BID_273_AssassinSuitCoin"
-        ],
-        "price": 1000
-    },
-    "featured1": {
-        "itemGrants": [
-            "AthenaCharacter:CID_292_Athena_Commando_F_Dieselpunk02"
-        ],
-        "price": 1000
-    },
-    "featured2": {
-        "itemGrants": [
-            "AthenaGlider:Glider_ID_076_DieselPunk"
+            "AthenaCharacter:CID_442_Athena_Commando_F_BannerA"
         ],
         "price": 800
     },
-    "featured3": {
+    "featured1": {
         "itemGrants": [
-            "AthenaMusicPack:MusicPack_FMD", "AthenaMusicPack:MusicPack_JennifersBody"
+            "AthenaCharacter:CID_220_Athena_Commando_F_Clown", "AthenaBackpack:BID_111_ClownFemale"
         ],
-        "price": 2500
+        "price": 1200
+    },
+    "featured2": {
+        "itemGrants": [
+            "AthenaCharacter:CID_221_Athena_Commando_M_Clown", "AthenaBackpack:BID_112_ClownMale"
+        ],
+        "price": 1200
     }
 }
