@@ -2,7 +2,7 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_123_Athena_Commando_F_Metal"
+            "AthenaCharacter:CID_717_Athena_Commando_F_BlueFlames"
         ],
         "price": 1200
     },
