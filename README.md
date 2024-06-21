@@ -1,12 +1,12 @@
-CID_717_Athena_Commando_F_BlueFlames, 1200
-CID_716_Athena_Commando_M_BlueFlames, 1200
-Pickaxe_ID_370_BlueFlames, 800
+CID_067_Athena_Commando_F_SkiGirl_CHN, 1500
+CID_059_Athena_Commando_M_SkiDude_CHN, 1500
+Pickaxe_ID_023_SkiBoot, 800
 na
 na
 na
-Wrap_078_SlurpJuice, 700
-EID_DreamFeet, 400
-CID_123_Athena_Commando_F_Metal, 1200
-Pickaxe_ID_049_Metal, 800
-CID_259_Athena_Commando_M_StreetOps, 1500
-Glider_ID_073_Medic, 1200
+CID_530_Athena_Commando_F_BlackMonday_1BV6J, 2000
+BID_360_BlackMondayKansas_VCZ9M, 1200
+Pickaxe_ID_277_BlackMondayMale_5TLSD, 1500
+EID_BlackMondayFemale_6HO4L, 100
+CID_162_Athena_Commando_F_StreetRacer, 1500
+CID_094_Athena_Commando_M_Rider, 1500
